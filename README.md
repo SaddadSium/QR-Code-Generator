@@ -42,7 +42,6 @@ The **QR Code Generator** is a simple and responsive web application that genera
 
     - style.css
 
-  - The QRCode.js library is included via CDN, so no local installation is required.
 
 **3️⃣ Run the Application**
 
@@ -90,7 +89,7 @@ You can easily extend or customize this project:
 
  - 🎞️ Customize transition duration or animation keyframes
 
- - ⬇️ Enhance script.js to:
+ - ⬇️ Enhance script inside index.html to:
 
     - Download the generated QR code
 
