@@ -104,7 +104,7 @@ This project is **open-source** and available under the **MIT License**.
 
 ### 👨‍💻 Author
 
-**A.S.M. Sium**
+**A.S.M. Sium**\
 Frontend Developer & Photographer
 
 ### 🎥 Preview
